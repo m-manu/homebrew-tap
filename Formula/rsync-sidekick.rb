@@ -1,8 +1,8 @@
 class RsyncSidekick < Formula
   desc "Propagate file renames, moves, and timestamp changes before rsync"
   homepage "https://github.com/m-manu/rsync-sidekick"
-  url "https://github.com/m-manu/rsync-sidekick/archive/refs/tags/v2.1.0.tar.gz"
-  sha256 "a88174b6f8cdbbd306a2f35f538997fa27bd6ddd543b5596f074977e77a50bac"
+  url "https://github.com/m-manu/rsync-sidekick/archive/refs/tags/v2.10.0.tar.gz"
+  sha256 "fefdb5d11e979c7186745dc8fd1b7bed3bb84500eec3f25c6a3484500a6d7759"
   license "Apache-2.0"
   head "https://github.com/m-manu/rsync-sidekick.git", branch: "main"
 
